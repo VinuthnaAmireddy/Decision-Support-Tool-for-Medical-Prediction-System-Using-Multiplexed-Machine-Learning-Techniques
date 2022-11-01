@@ -1,0 +1,2 @@
+# Decision-Support-Tool-for-Medical-Prediction-System-Using-Multiplexed-Machine-Learning-Techniques
+Medical information systems are used by large number of hospitals to control the patient data and clinical information. These systems produce enormous volumes of data in text,graphs and images.These statistics are rarely utilized to assist clinicians in making clinical decisions.This problem can be solved by advanced techniques of machine learning.
